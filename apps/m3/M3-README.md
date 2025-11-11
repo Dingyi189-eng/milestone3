@@ -11,8 +11,6 @@ python task7_replacer.py example.html
 ```
 
 ## run the test
-### task7_replacer.py
-Replace all b tags with blockquote tags.
 ```
 cd bs4/tests
 ```
